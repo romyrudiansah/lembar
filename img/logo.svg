@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Lembar "Tumpuk": tiga lembar bertumpuk menjadi satu, lembar depan bersudut terlipat. Latar bata rata. -->
+  <rect width="256" height="256" rx="56" fill="#C2481B"/>
+  <rect x="108" y="34" width="94" height="126" rx="10" fill="#DC957B"/>
+  <rect x="82" y="62" width="94" height="126" rx="10" fill="#EDC8BB"/>
+  <path d="M66 90H124L150 116V212A10 10 0 0 1 140 222H66A10 10 0 0 1 56 212V100A10 10 0 0 1 66 90Z" fill="#FFFFFF"/>
+  <path d="M124 90V116H150Z" fill="#E4AD98"/>
+</svg>

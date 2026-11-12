@@ -1,0 +1,19 @@
+{
+    "version":  "0.6.0",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.6.0/Lembar-Setup-0.6.0.exe",
+    "size":  21488635,
+    "sha256":  "fc41659688e4064a58fb2b3bfea4c0d05061d6561f09f33575fc732a65e9f2fd",
+    "date":  "2026-11-12",
+    "notes":  {
+                  "id":  [
+                             "Buka dokumen Word, Excel, dan PowerPoint: Lembar mengubahnya ke PDF lewat Microsoft Office, WPS Office, atau LibreOffice yang terpasang, lalu bisa digabung dengan file lain.",
+                             "Isian formulir di file hasil sekarang bisa dicari dan disalin.",
+                             "Status bar bahasa Inggris menulis \"1 page\" dan \"1 file\" dengan benar."
+                         ],
+                  "en":  [
+                             "Open Word, Excel, and PowerPoint documents: Lembar converts them to PDF through an installed Microsoft Office, WPS Office, or LibreOffice, then they can be merged with other files.",
+                             "Form entries in the saved file can now be searched and copied.",
+                             "The English status bar now says \"1 page\" and \"1 file\" correctly."
+                         ]
+              }
+}

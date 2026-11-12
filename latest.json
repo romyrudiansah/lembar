@@ -1,0 +1,21 @@
+{
+    "version":  "0.4.0",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.4.0/Lembar-Setup-0.4.0.exe",
+    "size":  21392580,
+    "sha256":  "586008a5f1b3f4c8c7382ac55ea641174612c735bda1733c3865f20adbce0fb3",
+    "date":  "2026-11-12",
+    "notes":  {
+                  "id":  [
+                             "Luruskan foto dokumen yang diambil miring: Lembar mencari tepi kertas, Anda tinggal membetulkan sudutnya bila perlu, lalu tekan Enter.",
+                             "Simpan sebagai PDF/A untuk arsip dan portal yang memintanya. Halaman yang fontnya tidak tertanam disimpan sebagai gambar, dengan teksnya tetap bisa dicari.",
+                             "OCR tetap jalan walau Windows tidak punya paket OCR, misalnya Windows berbahasa Indonesia saja: Lembar memakai mesin bawaannya.",
+                             "Nomor halaman tidak lagi ikut tembus pandang bila dipakai bersama watermark."
+                         ],
+                  "en":  [
+                             "Straighten document photos taken at an angle: Lembar finds the paper\u0027s edges, you adjust a corner if needed, then press Enter.",
+                             "Save as PDF/A for archives and portals that require it. Pages with unembedded fonts are saved as images, with their text still searchable.",
+                             "OCR keeps working when Windows has no OCR language pack, such as an Indonesian-only Windows: Lembar uses its own engine.",
+                             "Page numbers are no longer see-through when used together with a watermark."
+                         ]
+              }
+}

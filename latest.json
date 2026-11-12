@@ -1,0 +1,21 @@
+{
+    "version":  "0.2.0",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.2.0/Lembar-Setup-0.2.0.exe",
+    "size":  8743726,
+    "sha256":  "7ac510f067beecd8e5505e87e3186abd3a626bb07dd81fb57f0d74153f66e33e",
+    "date":  "2026-11-12",
+    "notes":  {
+                  "id":  [
+                             "Rilis pertama Lembar: gabung, urutkan, putar, hapus, duplikat, dan sisip halaman kosong dari PDF dan foto, dengan pratinjau sebesar jendela.",
+                             "Simpan sebagai PDF di bawah batas ukuran (preset Ijazah CPNS 800 KB dan Transkrip CPNS 500 KB, ikut A4), atau JPG per halaman di bawah batas (preset KTP dan pas foto CPNS 200 KB), atau PNG.",
+                             "Watermark miring untuk salinan KTP, nomor halaman, kunci kata sandi AES-256, dan hapus metadata.",
+                             "Bahasa Indonesia dan Inggris, tema terang (bawaan) dan gelap."
+                         ],
+                  "en":  [
+                             "First Lembar release: merge, reorder, rotate, delete, duplicate, and insert blank pages from PDFs and photos, with a window-sized preview.",
+                             "Save as PDF under a size limit (CPNS diploma 800 KB and CPNS transcript 500 KB presets, with A4), as JPG per page under a limit (CPNS ID card and photo 200 KB preset), or as PNG.",
+                             "Slanted watermark for ID copies, page numbers, AES-256 password lock, and metadata removal.",
+                             "Indonesian and English, light (default) and dark themes."
+                         ]
+              }
+}

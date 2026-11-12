@@ -1,0 +1,21 @@
+{
+    "version":  "0.3.0",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.3.0/Lembar-Setup-0.3.0.exe",
+    "size":  8776261,
+    "sha256":  "e5ab481a09e80d04ca05dc7a47a7652d57126dcd82ed45b67cf6c4465f8c6ba2",
+    "date":  "2026-11-12",
+    "notes":  {
+                  "id":  [
+                             "Kompres banyak file sekaligus: \"Satu file per file asal\" menyimpan tiap file sendiri di folder pilihan, dengan batas ukuran masing-masing.",
+                             "Potong halaman dan sensor (kotak hitam) di pratinjau. Halaman bersensor disimpan sebagai gambar supaya teks di bawahnya benar-benar hilang.",
+                             "OCR dengan mesin bawaan Windows: hasil pindai bisa dicari dan disalin. Perjelas foto dokumen dari ponsel.",
+                             "Grid bisa dipakai dengan keyboard: panah, Shift+panah, Alt+panah untuk memindah halaman, Home, End."
+                         ],
+                  "en":  [
+                             "Compress many files at once: \"One file per source file\" saves each file on its own in the folder you pick, each with its own size limit.",
+                             "Crop pages and redact (black boxes) in the preview. Redacted pages are saved as images so the text under them is really gone.",
+                             "OCR with the engine built into Windows: scans become searchable and copyable. Clean up phone photos of documents.",
+                             "The page grid works from the keyboard: arrows, Shift+arrows, Alt+arrows to move pages, Home, End."
+                         ]
+              }
+}

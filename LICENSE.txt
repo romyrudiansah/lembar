@@ -1,0 +1,32 @@
+Lisensi Lembar (freeware)
+=========================
+
+Hak cipta (c) 2026 Romy Rudiansah. Semua hak dilindungi.
+
+Lembar adalah perangkat lunak gratis (freeware), bukan perangkat lunak sumber terbuka. Lisensi ini berlaku untuk lembar.exe. Komponen pihak ketiga memakai lisensinya sendiri, termasuk pdfium.dll.
+
+1. Anda boleh memasang dan memakai Lembar secara gratis, untuk keperluan pribadi maupun komersial, di komputer sebanyak yang Anda perlukan.
+2. Anda boleh membagikan installer Lembar yang tidak diubah, tanpa memungut biaya. Lebih baik bagikan tautan website resminya: https://romyrudiansah.github.io/lembar/
+3. Anda tidak boleh menjual Lembar, mengubah lembar.exe, atau membongkarnya (reverse engineering, decompile, disassemble), kecuali sejauh diizinkan hukum yang berlaku.
+4. Lembar memproses file di komputer Anda sendiri dan tidak mengunggah dokumen Anda ke mana pun. Anda tetap bertanggung jawab atas dokumen yang Anda simpan dan kirim, termasuk memeriksa hasilnya sebelum diunggah ke portal pendaftaran.
+5. Lembar disediakan "apa adanya", tanpa jaminan apa pun. Sejauh diizinkan hukum yang berlaku, pembuatnya tidak bertanggung jawab atas kerugian yang timbul dari pemakaian Lembar, termasuk dokumen yang ditolak suatu portal.
+6. Daftar komponen pihak ketiga dan lisensinya ada di THIRD-PARTY-NOTICES.txt dan folder licenses.
+
+Kontak: romy.rudiansah@gmail.com
+
+
+Lembar license (freeware)
+=========================
+
+Copyright (c) 2026 Romy Rudiansah. All rights reserved.
+
+Lembar is free software to use (freeware). It is not open source. This license applies to lembar.exe. Third-party components have their own licenses, including pdfium.dll.
+
+1. You may install and use Lembar free of charge, for personal or commercial purposes, on as many computers as you need.
+2. You may share the unmodified Lembar installer, free of charge. Sharing a link to the official website is preferred: https://romyrudiansah.github.io/lembar/
+3. You may not sell Lembar, modify lembar.exe, or reverse engineer, decompile or disassemble it, except to the extent applicable law allows.
+4. Lembar processes files on your own computer and does not upload your documents anywhere. You remain responsible for the documents you save and send, including checking the result before uploading it to a registration portal.
+5. Lembar is provided "as is", without warranty of any kind. To the extent applicable law allows, its author is not liable for any damage arising from the use of Lembar, including documents rejected by a portal.
+6. The third-party components and their licenses are listed in THIRD-PARTY-NOTICES.txt and the licenses folder.
+
+Contact: romy.rudiansah@gmail.com

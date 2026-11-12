@@ -1,0 +1,21 @@
+{
+    "version":  "0.5.0",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.5.0/Lembar-Setup-0.5.0.exe",
+    "size":  21470595,
+    "sha256":  "6e14225d219b21affb609a74272de8d7b9495c1b2b3be80919c646b39291e25c",
+    "date":  "2026-11-12",
+    "notes":  {
+                  "id":  [
+                             "Tempel tanda tangan, gambar, atau teks di halaman lewat alat Tempel di pratinjau. Foto tanda tangan di kertas langsung bisa dipakai: latar kertasnya dibuang.",
+                             "Isi formulir PDF lewat menu ··· \u003e Isi formulir: kolom teks, centang, dan pilihan. Saat disimpan, isiannya jadi bagian halaman.",
+                             "Pisah PDF per rentang halaman, misalnya 1-3, 4-10, 11.",
+                             "PDF/A dari Lembar lolos pemeriksaan veraPDF dalam uji kami, termasuk yang berisi formulir dan tanda tangan."
+                         ],
+                  "en":  [
+                             "Place a signature, image, or text on a page with the Place tool in the preview. A photo of a signature on paper works as is: the paper background is removed.",
+                             "Fill in PDF forms from the ··· menu \u003e Fill in form: text fields, checkboxes, and choices. When saved, the entries become part of the page.",
+                             "Split a PDF by page ranges, such as 1-3, 4-10, 11.",
+                             "PDF/A from Lembar passes veraPDF in our tests, including files with forms and signatures."
+                         ]
+              }
+}

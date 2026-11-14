@@ -1,0 +1,15 @@
+{
+    "version":  "0.6.1",
+    "url":  "https://github.com/romyrudiansah/lembar/releases/download/v0.6.1/Lembar-Setup-0.6.1.exe",
+    "size":  21490340,
+    "sha256":  "e2c714e79886891c1f8a084d54848b4263016dcba0b5286286a0eff03bab4544",
+    "date":  "2026-11-14",
+    "notes":  {
+                  "id":  [
+                             "Bilah judul jendela kini ikut tema Lembar. Sebelumnya bilah judul tetap hitam saat Windows memakai mode gelap, walaupun Lembar terang."
+                         ],
+                  "en":  [
+                             "The window title bar now follows Lembar\u0027s theme. Before, it stayed black when Windows used dark mode, even with Lembar in light mode."
+                         ]
+              }
+}
